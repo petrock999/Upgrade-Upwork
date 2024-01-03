@@ -5,6 +5,7 @@ My capstone project will revolve around the Upwork Dataset, created by Kaggle us
 https://www.kaggle.com/datasets/ahmedmyalo/upwork-freelance-jobs-60k?select=Final_Upwork_Dataset.csv
 
 The features I'm particularly interested on are (as written by Ahmed on the Kaggle post):
+
     - Job Title: Specifies the nature of the job. It aids potential applicants in quickly understanding the role that client needs.
     - EX_level_demand: Describes the skill tier desired. Helps candidates evaluate if they are a fit for the job. (there's 3 tiers on the site: "Entry level & Intermediate & Expert")
     - Description: the full description of the job which client wrote.
