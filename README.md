@@ -1,4 +1,29 @@
-# Upwork: trending jobs
+# Updating Upwork
+
+# Sprint 2 Updates:
+The project is moving along! 
+
+By analyzing the 3D Modeling Category using N-Grams, we could gather some insights. For instance, Upwork recruiters are keen on Unreal Engine. 
+
+The Baseline Model will consist of a RNN model, which still needs to be heavily tuned to get acceptable results. Right now it appears to be overfitting.
+
+I'm also interested in trying Pretrained models, which produce better results. A lightweight version of Falcon by vilsonrodrigues is of particular interest:
+
+https://huggingface.co/vilsonrodrigues/falcon-7b-instruct-sharded
+
+# TODO
+* Implement GUI
+
+* Imputing missing categories from job titles
+* Creating a better RNN model with regularization, more training data or dropout
+
+* Finetuning pretrained model
+* Trying Falcoln with more parameters
+* Changing Falcoln configuration, e.g. Top P, Temperature
+* Finetuning other pretrained models, e.g. Llama, Mistral
+
+
+# Broad Overview
 
 My capstone project will revolve around the Upwork Dataset, created by Kaggle user Ahmed Myalo.
 
