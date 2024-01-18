@@ -11,6 +11,13 @@ I'm also interested in trying Pretrained models, which produce better results. A
 
 https://huggingface.co/vilsonrodrigues/falcon-7b-instruct-sharded
 
+Note: 
+Sprint 2.ipynb represents my progress. 
+
+Falcoln.ipynb is a modified version of the notebook by YouTube user AI Jason. The original notebook can be found [here](https://colab.research.google.com/drive/1IqL0ay04RwNNcn5R7HzhgBqZ2lPhHloh?usp=sharing).
+
+RNN Notebook is a modified version of BrainStation's RNN guide. 
+
 # TODO
 * Implement GUI
 
