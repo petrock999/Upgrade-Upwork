@@ -17,6 +17,7 @@ Specifically, my model will focus on `topic modeling` techniques.
 
 This will involve trying out TF-IDF, LDA, and finally, BERTopic to see what method is the most efficient, interpretable, and easier to deploy.
 
+Initially, this project was going to pursuit RNN's and pretrained LLM's to produce the job descriptions, but a shift to topic modeling was seen as a more appropiate route.
 
 # Topic Modeling Overview
 Topic modeling is a type of model used to `discover abstract topics within a collection of documents`, where a *topic* is a `collection of dominant, representative keywords`. 
@@ -53,7 +54,7 @@ The dataset comprises 60,000 job descriptions from Upwork, spanning various cate
 # Quick EDA and Feature Reduction
 The EDA focuses on maintaining only job titles, descriptions, the main job category, and dropping any NaN values.
 
-You can find the EDA notebook [in the following link](./EDA_NOTEBOOK.ipynb).
+You can find the EDA notebook [in the following link](./Sprint_3/EDA_NOTEBOOK.ipynb).
 
 <div class="alert"  style="background-color:#1f2e6b; color:white; padding:0px 5px; border-radius:10px;"><h2 style='margin:10px'>Model Overview</h2></div>
 
