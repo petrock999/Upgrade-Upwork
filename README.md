@@ -62,9 +62,9 @@ You can find the EDA notebook [in the following link](./Sprint_3/EDA_NOTEBOOK.ip
 
 Each link below will take you to the respective notebook for the model. Each notebook goes into more detail about how the model works, how it was implemented for my dataset, what results it produced, and how those results were evaluated.
 
-1. [TF-IDF + KMeans](./TF_IDF.ipynb): This is a simple model which uses Term Frequency-Inverse Document Frequency (TF-IDF) to vectorize the job descriptions and KMeans to cluster them.
+1. [TF-IDF + KMeans](./Sprint_3/TF_IDF.ipynb): This is a simple model which uses Term Frequency-Inverse Document Frequency (TF-IDF) to vectorize the job descriptions and KMeans to cluster them.
    
-2. [LDA (Latent Dirichlet Allocation)](./LDA.ipynb): A more sophisticated approach that identifies topics based on word distributions within documents.
+2. [LDA (Latent Dirichlet Allocation)](./Sprint_3/LDA.ipynb): A more sophisticated approach that identifies topics based on word distributions within documents.
 
 3. [BERTopic](./Sprint_3/BERT.ipynb): Utilizes BERT embeddings and does not require traditional preprocessing, leveraging the context of words to identify topics.
 
