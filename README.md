@@ -53,7 +53,7 @@ The dataset comprises 60,000 job descriptions from Upwork, spanning various cate
 # Quick EDA and Feature Reduction
 The EDA focuses on maintaining only job titles, descriptions, the main job category, and dropping any NaN values.
 
-You can find the EDA notebook [in the following link](./EDA_NOTEBOOK.ipynb).
+You can find the EDA notebook [in the following link](./Sprint_3/EDA_NOTEBOOK.ipynb).
 
 <div class="alert"  style="background-color:#1f2e6b; color:white; padding:0px 5px; border-radius:10px;"><h2 style='margin:10px'>Model Overview</h2></div>
 
