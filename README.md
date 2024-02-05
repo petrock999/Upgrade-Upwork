@@ -17,6 +17,7 @@ Specifically, my model will focus on `topic modeling` techniques.
 
 This will involve trying out TF-IDF, LDA, and finally, BERTopic to see what method is the most efficient, interpretable, and easier to deploy.
 
+Initially, this project was going to pursuit RNN's and pretrained LLM's to produce the job descriptions, but a shift to topic modeling was seen as a more appropiate route.
 
 # Topic Modeling Overview
 Topic modeling is a type of model used to `discover abstract topics within a collection of documents`, where a *topic* is a `collection of dominant, representative keywords`. 
