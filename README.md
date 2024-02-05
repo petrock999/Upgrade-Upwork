@@ -65,7 +65,7 @@ Each link below will take you to the respective notebook for the model. Each not
    
 2. [LDA (Latent Dirichlet Allocation)](./LDA.ipynb): A more sophisticated approach that identifies topics based on word distributions within documents.
 
-3. [BERTopic](./Sprint 3/BERT.ipynb): Utilizes BERT embeddings and does not require traditional preprocessing, leveraging the context of words to identify topics.
+3. [BERTopic]("./Sprint 3/BERT.ipynb"): Utilizes BERT embeddings and does not require traditional preprocessing, leveraging the context of words to identify topics.
 
 # Model Comparisons
 <table>
